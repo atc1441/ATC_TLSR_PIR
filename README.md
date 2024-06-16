@@ -3,11 +3,10 @@ Custom firmware for the cheap Telink TLSR based PIR Bluetooth/Zigbee Sensors
 
 
 
+# Infos:
+
 WebSerial Firmware flasher Tool: 
 https://atc1441.github.io/ATC_TLSR_Paper_UART_Flasher.html
-
-WebBluetooth Image Uploader:
-https://atc1441.github.io/ATC_TLSR_Paper_Image_Upload.html
 
 WebBluetooth Firmware OTA Flashing:
 https://atc1441.github.io/ATC_TLSR_Paper_OTA_writing.html
