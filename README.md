@@ -1,6 +1,11 @@
 # ATC_TLSR_PIR
 Custom firmware for the cheap Telink TLSR based PIR Bluetooth/Zigbee Sensors
 
+<img width="600" alt="overview" src="overview.png">
+
+<img width="600" alt="pcb" src="pcb.png">
+
+<img width="600" alt="soc" src="soc.png">
 
 
 # Infos:
